@@ -1,0 +1,13 @@
+You can add comments to basic fuck, format them like
+I'm doing right now(0);
+add(72); out(1); nxt(1);
+add(101); out(1); nxt(1);
+add(108); out(2); nxt(1);
+add(111); out(1); nxt(1);
+add(32); out(1); nxt(1);
+
+add(87); out(1); nxt(1);
+add(111); out(1); nxt(1);
+add(114); out(1); nxt(1);
+add(108); out(1); nxt(1);
+add(100); out(1);
