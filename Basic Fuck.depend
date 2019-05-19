@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1558284624 source:/home/yanderella/Programmi/Yanderella/Basic Fuck/main.cpp
+	<iostream>
+	<string>
+	"utils.h"
+	"compiler.h"
+	"interpreter.h"
+
+1558264941 /home/yanderella/Programmi/Yanderella/Basic Fuck/compiler.h
+
+1558281796 source:/home/yanderella/Programmi/Yanderella/Basic Fuck/utils.cpp
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdlib>
+	<iostream>
+	<exception>
+
+1558265049 source:/home/yanderella/Programmi/Yanderella/Basic Fuck/compiler.cpp
+	<string>
+	"utils.h"
+
+1558281811 /home/yanderella/Programmi/Yanderella/Basic Fuck/utils.h
+
+1558282316 source:/home/yanderella/Programmi/Yanderella/Basic Fuck/interpreter.cpp
+	<stdexcept>
+	<vector>
+	<string>
+	<stack>
+	<iostream>
+
+1558282241 /home/yanderella/Programmi/Yanderella/Basic Fuck/interpreter.h
+
