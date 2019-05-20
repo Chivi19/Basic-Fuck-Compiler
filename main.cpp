@@ -59,8 +59,8 @@ void help(std::string program_name)
 
 int main(int argc, char *argv[])
 {
-
-    if     ( trim( argv[1] ) == "build" ) build(argv[2], argv[3], argc);
+    if     ( argc == 1 ) help(argv[0]);
+    else if( trim( argv[1] ) == "build" ) build(argv[2], argv[3], argc);
     else if( trim( argv[1] ) == "run" )   run(argv[2], argc);
     else if( trim( argv[1] ) == "help" )  help(argv[0]);
     else {
